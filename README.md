@@ -35,11 +35,11 @@
 
 | ARSO Radar Viewer | Location Info - Building Info |
 |------------------|-------------------------------|
-| ![ARSO Radar](screenshots/arso.png) | ![Building Info](screenshots/lokacija_info_building.png) |
+| ![ARSO Radar](screenshots/arso.png) | ![Building Info](screenshots/lokacija_info_objects.png) |
 
 | Location Info - Close Objects | Road Cameras |
 |-------------------------------|---------------|
-| ![Close Objects](screenshots/lokacija_info_objects.png) | ![Road Cameras](screenshots/road_cameras.png) |
+| ![Close Objects](screenshots/lokacija_info_building.png) | ![Road Cameras](screenshots/road_cameras.png) |
 
 ---
 
