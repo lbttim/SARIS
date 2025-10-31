@@ -31,9 +31,15 @@
 
 ---
 
-## Gallery
+## Screenshots
 
-*Screenshots and demo GIFs can be added here to showcase the plugin interface and modules.*
+| ARSO Radar Viewer | Location Info - Building Info |
+|------------------|-------------------------------|
+| ![ARSO Radar](screenshots/arso.png) | ![Building Info](screenshots/lokacija_info_building.png) |
+
+| Location Info - Close Objects | Road Cameras |
+|-------------------------------|---------------|
+| ![Close Objects](screenshots/lokacija_info_objects.png) | ![Road Cameras](screenshots/road_cameras.png) |
 
 ---
 
@@ -46,4 +52,4 @@
 
 ## Contact
 
-For more information or collaboration inquiries, please contact the project team.
+For more information or collaboration inquiries, please contact me.
